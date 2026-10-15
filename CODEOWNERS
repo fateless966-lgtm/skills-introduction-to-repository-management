@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @fateless966-lgtm
+/src/backend/database.py      @fateless966-lgtm
+/src/backend/routers/auth.py  @fateless966-lgtm
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @fateless966-lgtm
